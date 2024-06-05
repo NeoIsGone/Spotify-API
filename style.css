@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background-color: #708666;
+}
+
+p {
+    color: #a5be9a;
+    font-size: 40px;
+    font-weight: 900;
+    font-style: italic;
+    font-family: monospace;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+li {
+    font-size: 30px;
+    list-style-type: lower-roman;
+    font-weight: 600;
+}
